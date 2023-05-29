@@ -1,2 +1,8 @@
 var Menu = (Menu, {title: Strings. pauseMenu.paused
 action: function(){
+pauseMenu: {
+		paused: "Paused",
+		resume: "Continue",
+		quit:   "Back to title"
+    voice:  "Voice On"
+    BGM:    "BGM"
